@@ -3,7 +3,7 @@ public class Main {
         //Temperatura t = new Temperatura(25, 50);
         //t.mostrarTemperaturaEnCelsius();
         DatosPacientes paciente= new DatosPacientes();
-        paciente.pacientes();
-
+        //paciente.pacientes();
+        new TemperaturaInterfaz();
     }
 }
